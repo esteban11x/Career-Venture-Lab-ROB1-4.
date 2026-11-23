@@ -1,0 +1,9 @@
+START HERE
+
+1. Keep this whole folder together.
+2. First, send the folder/ZIP to your teacher only if your teacher asked for it.
+3. Open README.md for the run and deploy steps.
+4. Do not say the tests passed until you run: python -m pytest -v
+5. Replace TEAM-ROB1 with your teacher's team ID in the app.
+
+This is Stage 1. Later project stages are intentionally not included yet.
